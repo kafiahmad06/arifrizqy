@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="/assets/images/rounded-profile-picture.png">
+
 # Hi there 👋
 
 <!--

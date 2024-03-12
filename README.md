@@ -3,7 +3,7 @@
     <link rel="shortcut icon" type="image/png" href="/assets/images/rounded-profile-picture.png">
   </head>
   <body>
-    # Hi there 👋
+    <h1>Hi there 👋</h1>
     
     <!--
     **arifrizqy/arifrizqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
